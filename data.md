@@ -5,23 +5,23 @@ I am noob.Live in Myanmar
 
 !!!!!!!Facebook Brute-Force Attack!!!!!!!
 
-apt update
+$apt update
 
-apt upgrade
+$apt upgrade
 
-pip2 install requests
+$pip2 install requests
 
-pip2 install mechanize
+$pip2 install mechanize
 
-apt install python3
+$apt install python3
 
-apt install git
+$apt install git
 
-cd /sdcard/hp02
+$cd /sdcard/hp02
 
-ls
+$ls
 
-python2 fb-brute.py
+$python2 fb-brute.py
 
 အဲဒါၿပီးရင္​ accရဲ႕ id no.ထည္​့
  ထည္​့ၿပီးရင္​ 
